@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmontegrosso
 - 👀 I’m interested in learn about programming
-- 🌱 I’m currently learning Delphi and C#
+- 🌱 I’m currently learning Delphi, C#.NET and SQL
 - 💞️ I’m looking to collaborate on projects of any kind
 - 📫 How to reach me jeremontegrosso@gmail.com
 
